@@ -1,0 +1,20 @@
+<html>
+  <body>
+    <h1>Hqi Cantik!</h1>
+    <img src="htpps:c.tenor.com/z8ezUHZzcLoAAAAC/love.gift"/>
+    <h1>maukah kamu menjadi pacarku?</h1>
+    <button id="btn_mau" onclick="alert("I LOVE YOU)">mau</button
+    <button id="btn_gamau" onlick="gamau(this)" style=position:
+      Gamau
+    </button>
+  </body
+  <script>
+    Function gamau (id){
+      var mau = document.getElementById("btn_mau");
+      var i = Math.floor(Math.random() * 300) + 1;
+      var j = Math.florr(Math.random() * 100) + mau.offsetTop;
+      id.style.left = i + "px":
+      id.style.top = j + "px";
+   }
+ </script>
+</html>
